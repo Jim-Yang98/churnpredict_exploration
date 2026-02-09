@@ -11,10 +11,9 @@ to support retention strategies.
 
 ### Power BI Dashboard
 > Screenshots below.  
-> Open `powerbi/churn_dashboard.pbix` with Power BI Desktop to explore.
 
-![Overview](images/dashboard_overview.png)
-![Churn](images/churn_page.png)
+![Overview](images/dashboard overview.png)
+![Churn](images/churn page.png)
 
 ### Key Metrics(by shap)
 - Total Revenue
