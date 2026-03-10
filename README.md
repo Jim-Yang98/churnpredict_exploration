@@ -12,7 +12,7 @@ to support retention strategies.
 ### Power BI Dashboard
 > Screenshots below.  
 
-![Overview](images/overview update.png)
+![Overview](images/overview_update.png)
 
 ### Key Metrics(by shap)
 - Total Revenue
