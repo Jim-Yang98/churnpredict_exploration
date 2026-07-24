@@ -1,8 +1,8 @@
 ## Telecom Customer Churn Analysis
 
 ### Objective
-Predict customer churn and visualize customer risk profiles
-to support retention strategies.
+- Predict customer churn and visualize customer risk profiles to support retention strategies.
+- For practice
 
 ### Tools
 - Python (Pandas, LightGBM)
