@@ -2,7 +2,7 @@
 
 ### Objective
 - Predict customer churn and visualize customer risk profiles to support retention strategies.
-- For practice
+- Created this project for practice.
 
 ### Tools
 - Python (Pandas, LightGBM)
