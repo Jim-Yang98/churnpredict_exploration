@@ -12,7 +12,7 @@
 ### Power BI Dashboard
 > Screenshots below.  
 
-![Overview](images/dashboard.jpg)
+![Overview](images/overview update.jpg)
 
 ### Key Metrics(by shap)
 - Total Revenue
